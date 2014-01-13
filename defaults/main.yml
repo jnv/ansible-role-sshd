@@ -10,3 +10,6 @@ sshd_pkg_state: installed
 
 # Allowed settings are: yes, no
 sshd_password_authentication: yes
+
+# Allowed settings are: yes, no
+sshd_x11_forwarding: no
